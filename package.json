@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "publisher": "ams-sth",
     "author": "Amsh Shrestha <amshstha37@gmail.com>",
-    "icon": "vantadark.png",
+    "icon": "slatehollow.png",
     "engines": {
         "vscode": "^1.70.0"
     },
