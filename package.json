@@ -1,8 +1,8 @@
 {
-    "name": "vantadark",
-    "displayName": "Vantadark",
-    "description": "Vantadark and Vantabright — minimalist themes focused on clarity, restrained contrast, and balanced syntax coloring.",
-    "version": "1.1.0",
+    "name": "slatehollow",
+    "displayName": "Slatehollow",
+    "description": "Clean surfaces, five syntax colours. Enough to tell your code apart, not enough to distract. Ships with a light variant — Slatehollow Light.",
+    "version": "1.0.0",
     "publisher": "ams-sth",
     "author": "Amsh Shrestha <amshstha37@gmail.com>",
     "icon": "vantadark.png",
@@ -15,9 +15,8 @@
     "keywords": [
         "theme",
         "dark",
-        "one dark",
         "minimal",
-        "vantadark",
+        "slatehollow",
         "light",
         "jetbrains",
         "typescript",
@@ -28,32 +27,20 @@
     "contributes": {
         "themes": [
             {
-                "label": "Vantadark",
+                "label": "Slatehollow Dark",
                 "uiTheme": "vs-dark",
-                "path": "themes/vantadark.json"
+                "path": "themes/slatehollow-dark.json"
             },
             {
-                "label": "Vantabright",
+                "label": "Slatehollow Light",
                 "uiTheme": "vs",
-                "path": "themes/vantabright.json"
+                "path": "themes/slatehollow-light.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ams-sth/vantadark"
+        "url": "https://github.com/ams-sth/vs-code-vantadark-theme"
     },
-    "license": "MIT",
-    "themes": [
-        {
-            "label": "Vantadark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/vantadark-color-theme.json"
-        },
-        {
-            "label": "Vantabright",
-            "uiTheme": "vs",
-            "path": "./themes/vantabright-color-theme.json"
-        }
-    ]
+    "license": "MIT"
 }
