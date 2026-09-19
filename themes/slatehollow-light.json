@@ -66,6 +66,7 @@
         "panelTitle.activeForeground": "#1a1a1a",
         "panelTitle.activeBorder": "#2a63a0",
         "panelTitle.inactiveForeground": "#7a8090",
+        "panelTitle.border": "#e0e0e0ff",
         "list.hoverBackground": "#e0e3e8",
         "list.activeSelectionBackground": "#d8dce2",
         "list.activeSelectionForeground": "#1a1a1a",

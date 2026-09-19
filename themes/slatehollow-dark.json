@@ -61,6 +61,7 @@
         "panel.background": "#13161c",
         "panelTitle.activeForeground": "#adb3be",
         "panelTitle.inactiveForeground": "#6b7385",
+        "panelTitle.border": "#1a1e23",
         "terminal.background": "#0f1117",
         "terminal.foreground": "#adb3be",
         "terminalCursor.foreground": "#3382cc",
