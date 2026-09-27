@@ -10,7 +10,7 @@
         "editor.background": "#f8f9fb",
         "editor.foreground": "#1a1a1a",
         "editorLineNumber.foreground": "#00000035",
-        "editorLineNumber.activeForeground": "#5a6270",
+        "editorLineNumber.activeForeground": "#030404",
         "editor.lineHighlightBackground": "#e8ebf0cc",
         "editor.selectionBackground": "#2a63a028",
         "editor.wordHighlightBackground": "#2a63a01a",
