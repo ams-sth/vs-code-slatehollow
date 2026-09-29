@@ -109,6 +109,7 @@
         "list.inactiveSelectionBackground": "#1c2028",
         "list.focusBackground": "#282e3a",
         "scrollbar.shadow": "#00000000",
+        "editorOverviewRuler.border": "#00000000",
         "scrollbarSlider.background": "#ffffff14",
         "scrollbarSlider.hoverBackground": "#ffffff1a",
         "scrollbarSlider.activeBackground": "#ffffff26",
