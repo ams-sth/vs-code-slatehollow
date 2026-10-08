@@ -48,5 +48,9 @@
         "type": "git",
         "url": "https://github.com/ams-sth/vs-code-slatehollow"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "@vscode/vsce": "^4.0.0"
+    },
+    "packageManager": "pnpm@12.9.0+sha512.8f64efa0b792986ca98ae568791bcd7722807e274c4f0c1d9853c62116495c584119db98762a2a5343b1684d361b9ae26fdd16d551666d7635346d3fae830ddd"
 }
