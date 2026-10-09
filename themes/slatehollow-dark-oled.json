@@ -91,6 +91,8 @@
         "statusBar.noFolderBackground": "#0c0e13",
         "statusBar.debuggingBackground": "#16325c",
         "statusBar.debuggingForeground": "#adb3be",
+        "editor.stackFrameHighlightBackground": "#4d3e0e35",
+        "editor.focusedStackFrameHighlightBackground": "#2a4a1e35",
         "statusBarItem.hoverBackground": "#1c2028",
         "input.background": "#222730",
         "input.foreground": "#a1a8b5",

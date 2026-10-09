@@ -2,7 +2,7 @@
     "name": "slatehollow",
     "displayName": "Slatehollow",
     "description": "Clean surfaces, five syntax colours. Enough to tell your code apart, not enough to distract. Ships with a light variant — Slatehollow Light — and an OLED-tuned dark variant.",
-    "version": "1.2.1",
+    "version": "1.2.3",
     "publisher": "ams-sth",
     "author": "Amsh Shrestha <amshstha37@gmail.com>",
     "icon": "slatehollow.png",

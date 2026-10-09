@@ -55,6 +55,8 @@
         "statusBar.noFolderBackground": "#e5e7eb",
         "statusBar.debuggingBackground": "#2a63a0",
         "statusBar.debuggingForeground": "#f0f2f5",
+        "editor.stackFrameHighlightBackground": "#c8a02030",
+        "editor.focusedStackFrameHighlightBackground": "#5a8a2030",
         "tab.activeBackground": "#f8f9fb",
         "tab.activeForeground": "#1a1a1a",
         "tab.inactiveBackground": "#e4e6ea",
